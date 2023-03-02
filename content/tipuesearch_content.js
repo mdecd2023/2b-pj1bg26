@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '\n \n 40923115 \n 40923130 \n 40923235', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '\n \n 40923115 吳圳吉 \n 40923130 林祐詮 \n 40923235 詹侑儒', 'tags': '', 'url': 'About.html'}]};
